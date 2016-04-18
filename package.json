@@ -1,0 +1,21 @@
+{
+  "name": "sugar",
+  "version": "0.0.1",
+  "description": "CSS framework based on ITCSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aleksej Dix",
+  "license": "ISC",
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AleksejDix/sugar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AleksejDix/sugar/issues"
+  },
+  "homepage": "https://github.com/AleksejDix/sugar#readme"
+}

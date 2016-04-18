@@ -1,0 +1,17 @@
+# top-most EditorConfig file
+root = true
+
+[*]
+end_of_line = lf
+insert_final_newline = true
+
+[*.{js,css,styl,scss,sass,html,twig,jade}]
+charset = utf-8
+
+[*.js]
+indent_style = tab
+indent_size = 4
+
+[*.{json,yml}]
+indent_style = space
+indent_size = 2
